@@ -91,7 +91,7 @@ function Home() {
       <div className="wrapper">
         <header>
           <h1>Find <span className="text-gradient">Movies</span>  you'll Enjoy</h1>
-          <img src=".\Firefly_RemoveBackground.png" alt="Hero banner" />
+          <img src=".\hero.png" alt="Hero banner" />
         <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
         </header>
 

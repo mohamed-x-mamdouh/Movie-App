@@ -27,6 +27,7 @@ dist-ssr
 *.sw?
 
 
-# Test / Scratch files
+# Test / Scratch files & folders
+Test_Assets
 src/practice.jsx
 src/practice.css
