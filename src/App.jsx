@@ -2,6 +2,7 @@ import { Routes, Route } from 'react-router-dom';
 import MovieDetails from './components/MovieDetails';
 import Home from './components/Home';
 import Footer from './components/Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
       </div>
 
       <Footer />
+
+      <Analytics />
     </main>
   );
 }
