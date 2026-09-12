@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">🎬 CineVibe (Movie Web Application)</h1>
+  <h1 align="center">🎬 Shasha (Movie Web Application)</h1>
   <p align="center">
     A modern, feature-rich movie discovery web application built with React, Tailwind CSS, TMDB API, and Appwrite.
   </p>
